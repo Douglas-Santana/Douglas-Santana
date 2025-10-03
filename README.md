@@ -2,7 +2,7 @@
 
 **`Data Analyst`**
 
-Me chamo Douglas Fonseca de Santana, tenho 26 anos e sou natural de São Paulo. Concluí o ensino técnico na ETEC Martin Luther King, com o curso técnico em Mecatrônica. Atualmente, estou cursando Ciência da Computação na UNIP. A minha paixão por tecnologia e dados me levou a focar em Análise de Dados, onde aplico meus conhecimentos para automatizar processos e criar dashboards interativos que geram insights valiosos para as organizações.
+Me chamo Douglas Fonseca de Santana, tenho 26 anos e sou natural de São Paulo. Concluí o ensino técnico na ETEC Martin Luther King, com o curso técnico em Mecatrônica. Atualmente, estou cursando Ciência da Computação na UNIP. A minha paixão por tecnologia e dados me levou a focar em **Data Analytics**, onde aplico meus conhecimentos para automatizar processos e criar dashboards interativos que geram insights valiosos para as organizações.
 
 Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e contribuir para a tomada de decisões estratégicas baseadas em dados.
 
